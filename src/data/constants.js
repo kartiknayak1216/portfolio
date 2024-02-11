@@ -108,6 +108,19 @@ export const projects = [
   },
   {
     id: 2,
+    title: "MERN Quiz app",
+
+    description:
+      " A simple quiz app ",
+    image:
+"https://firebasestorage.googleapis.com/v0/b/home-216b9.appspot.com/o/Screenshot%202024-02-11%20113808.png?alt=media&token=c077a73b-0de3-4794-94a8-c1c5054e0526", 
+    tags: ["React Js"],
+    category: "web app",
+    github: "GitHub Repository: https://github.com/kartiknayak1216/quiz",
+    webapp: " https://quiz-gxfn.onrender.com/",
+  },
+  {
+    id: 3,
     title: "E-Commerce application",
 
     description:
