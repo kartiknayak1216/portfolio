@@ -6,7 +6,7 @@ export const Bio = {
 
   github: "https://github.com/kartiknayak1216",
   resume:
-    "https://drive.google.com/file/d/1iToBxEh2VxxGo4BVRQvj9F9Ku_SYhOPj/view?usp=sharing",
+    "https://drive.google.com/file/d/1SDLpG7FIC8RhkAcTIKTrJCl0MNxHZ2nz/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/kartik-nayak-664853281/",
 };
 
